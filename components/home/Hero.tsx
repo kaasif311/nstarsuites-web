@@ -1,3 +1,4 @@
+import Button from "@/components/ui/Button";
 import { SITE } from "@/lib/constants";
 
 export default function Hero() {

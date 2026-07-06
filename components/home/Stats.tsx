@@ -5,22 +5,22 @@ export default function Stats() {
 
         <div>
           <p className="text-4xl font-bold text-[#0B5D4D]">21</p>
-          <p className="text-slate-500">Private Suites</p>
+          <p className="text-[var(--muted)]">Private Suites</p>
         </div>
 
         <div>
           <p className="text-4xl font-bold text-[#0B5D4D]">5</p>
-          <p className="text-slate-500">Available Now</p>
+          <p className="text-[var(--muted)]">Available Now</p>
         </div>
 
         <div>
           <p className="text-4xl font-bold text-[#0B5D4D]">$600+</p>
-          <p className="text-slate-500">Starting Monthly</p>
+          <p className="text-[var(--muted)]">Starting Monthly</p>
         </div>
 
         <div>
           <p className="text-4xl font-bold text-[#0B5D4D]">24/7</p>
-          <p className="text-slate-500">Tenant Access</p>
+          <p className="text-[var(--muted)]">Tenant Access</p>
         </div>
 
       </div>
