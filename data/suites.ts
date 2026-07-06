@@ -1,0 +1,50 @@
+import type { Suite } from "@/types/suite";
+
+export const suites: Suite[] = [
+  {
+    id: "b114",
+    number: "B114",
+    size: 620,
+    monthlyRent: 1250,
+    status: "available",
+    featured: true,
+    image: "/images/suites/b114.jpg",
+    description: "Large private office suite ideal for growing businesses.",
+  },
+  {
+    id: "b107",
+    number: "B107",
+    size: 500,
+    monthlyRent: 1099,
+    status: "available",
+    image: "/images/suites/b107.jpg",
+    description: "Professional office suite with flexible layout.",
+  },
+  {
+    id: "b108",
+    number: "B108",
+    size: 500,
+    monthlyRent: 1099,
+    status: "available",
+    image: "/images/suites/b108.jpg",
+    description: "Spacious office ideal for professional services.",
+  },
+  {
+    id: "b109-a",
+    number: "B109-A",
+    size: 220,
+    monthlyRent: 600,
+    status: "available",
+    image: "/images/suites/b109a.jpg",
+    description: "Affordable executive office for solo professionals.",
+  },
+  {
+    id: "b109-b",
+    number: "B109-B",
+    size: 220,
+    monthlyRent: 600,
+    status: "available",
+    image: "/images/suites/b109b.jpg",
+    description: "Private office with access to all building amenities.",
+  },
+];
