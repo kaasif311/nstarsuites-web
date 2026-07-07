@@ -1,4 +1,5 @@
 import { SITE } from "@/lib/constants";
+import Link from "next/link";
 
 export default function Footer() {
   return (
@@ -13,6 +14,21 @@ export default function Footer() {
         <p className="text-slate-300">{SITE.phone}</p>
 
         <p className="text-slate-300">{SITE.email}</p>
+        <div className="mt-10 flex flex-wrap gap-6 text-sm">
+  <Link
+    href="/privacy-policy"
+    className="hover:text-[var(--brand-green)] transition"
+  >
+    Privacy Policy
+  </Link>
+
+  <Link
+    href="/terms"
+    className="hover:text-[var(--brand-green)] transition"
+  >
+    Terms & Conditions
+  </Link>
+</div>
 
         <p className="mt-8 text-sm text-slate-500">
           © {new Date().getFullYear()} North Star Business Suites.
