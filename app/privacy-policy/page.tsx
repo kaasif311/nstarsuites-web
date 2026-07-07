@@ -26,7 +26,7 @@ export default function PrivacyPolicyPage() {
           <p>
             We do not sell your personal information. Information is shared only
             with service providers necessary to operate our business or when
-            required by law.
+            required by law. Mobile information will not be shared with third parties for marketing purposes
           </p>
         </section>
 

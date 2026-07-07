@@ -65,6 +65,9 @@ export default function TermsPage() {
           <p className="mt-3 font-semibold">
             hello@nstarsuites.com
           </p>
+          <p className="text-sm text-slate-500">
+            SMS, message and data rates, frequency, STOP, HELP
+          </p>
         </section>
 
       </div>
