@@ -24,8 +24,10 @@ export default function PrivacyPolicyPage() {
         <section>
           <h2 className="mb-3 text-2xl font-semibold">Information Sharing</h2>
           <p>
-            We do not sell your personal information. Information is shared only
-            when required by law. Mobile information will not be shared with third parties for marketing purposes
+            We do not sell your personal information. Mobile information will not be shared with third parties (including affiliates and vendors) for marketing or promotional purposes. Mobile information will not be shared
+             with third parties for marketing purposes
+
+             SMS Message frequency may vary. SMS Message and data rates may apply. Reply STOP to opt out, HELP for assistance. For support contact 281-270-7299 or support@nstarsuites.com.
           </p>
         </section>
 
