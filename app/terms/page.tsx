@@ -66,7 +66,8 @@ export default function TermsPage() {
             hello@nstarsuites.com
           </p>
           <p className="text-sm text-slate-500">
-            SMS message and data rates may apply. Message frequency may vary. Reply STOP to opt out, HELP for assistance.
+            Text JOIN to get alerts from North Star Business Suites. By texting, you agree to receive recurring marketing msgs. Consent is not required to buy. Msg & data rates may apply. Reply STOP to opt out. Reply HELP for help
+            
           </p>
         </section>
 
