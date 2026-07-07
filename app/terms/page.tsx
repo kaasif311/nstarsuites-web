@@ -66,7 +66,7 @@ export default function TermsPage() {
             hello@nstarsuites.com
           </p>
           <p className="text-sm text-slate-500">
-            SMS, message and data rates, frequency, STOP, HELP
+            SMS message and data rates may apply. Message frequency may vary. Reply STOP to opt out, HELP for assistance.
           </p>
         </section>
 
